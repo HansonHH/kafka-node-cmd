@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/HansonHH/kafka-node-cmd#readme",
   "dependencies": {
+    "commander": "^2.17.1",
     "kafka-node": "^2.6.1"
   }
 }
