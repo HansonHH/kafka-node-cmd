@@ -1,0 +1,27 @@
+{
+  "name": "kafka-node-cmd",
+  "version": "1.0.0",
+  "description": "A command tool for Kafka in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansonHH/kafka-node-cmd.git"
+  },
+  "keywords": [
+    "kafka",
+    "Node.js",
+    "Node",
+    "kafka-node",
+    "command",
+    "cmd"
+  ],
+  "author": "HansonHH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansonHH/kafka-node-cmd/issues"
+  },
+  "homepage": "https://github.com/HansonHH/kafka-node-cmd#readme"
+}
