@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/HansonHH/kafka-node-cmd/issues"
   },
-  "homepage": "https://github.com/HansonHH/kafka-node-cmd#readme"
+  "homepage": "https://github.com/HansonHH/kafka-node-cmd#readme",
+  "dependencies": {
+    "kafka-node": "^2.6.1"
+  }
 }
